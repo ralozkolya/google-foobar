@@ -29,11 +29,6 @@ an "L" shape).  Both the source and destination squares will be an integer betwe
 |56|57|58|59|60|61|62|63|
 -------------------------
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py
-
 Test cases
 ==========
 Your code should pass the following test cases.

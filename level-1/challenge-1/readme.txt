@@ -19,12 +19,6 @@ where 1 represents a bump and 0 represents no bump.  Put together, `code` become
 
 Write a function answer(plaintext) that takes a string parameter and returns a string of 1's and 0's representing the bumps and absence of bumps in the input string. Your function should be able to encode the 26 lowercase letters, handle capital letters by adding a Braille capitalization mark before that character, and use a blank character (`000000`) for spaces. All signs on the space station are less than fifty characters long and use only letters and spaces.
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java  
-
 Test cases
 ==========
 

@@ -15,11 +15,6 @@ Each array of solar panels contains at least 1 and no more than 50 panels, and e
 malfunctioning so badly that they're draining energy, but you know a trick with the panels' wave stabilizer that lets you combine two negative-output panels to produce the positive 
 output of the multiple of their power values). The final products may be very large, so give the solution as a string representation of the number.
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py
-
 Test cases
 ==========
 Your code should pass the following test cases.
